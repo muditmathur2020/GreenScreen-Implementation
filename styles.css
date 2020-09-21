@@ -1,0 +1,13 @@
+canvas
+{
+  background: lightgray;
+  border: 1px solid black;
+  width: 450px;
+  height: 300px;
+  margin: 30px;
+}
+#h1i
+{
+text-align:center;
+background-color:gold;
+}
